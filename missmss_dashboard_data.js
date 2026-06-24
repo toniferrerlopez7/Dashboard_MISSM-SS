@@ -1,5 +1,5 @@
-﻿window.MISSMSS_DASHBOARD_DATA = {
-    "generated_at":  "2026-06-19 09:59:08",
+window.MISSMSS_DASHBOARD_DATA = {
+    "generated_at":  "2026-06-24 08:09:28",
     "source_file":  "MISSM-SS.CM-Fuente Dashboard.xlsx",
     "title":  "MISSM-SS Â· Cuadro de mando de federaciÃ³n y gobierno del dato",
     "subtitle":  "Seguimiento ejecutivo del ciclo IKC â†’ M4M â†’ Conversor â†’ Validador â†’ CKAN MISSM-SS â†’ datos.gob.es, incluyendo comisiones, satisfacciÃ³n y devoluciÃ³n del servicio.",
@@ -2902,7 +2902,8 @@
                                 "documentos_finales_del_proyecto_missm_ss":  "Guía de Mantenimiento",
                                 "responsable":  "Equipo de Plataformas GDDP",
                                 "descripcion":  "Documento elaborado por el equipo de Plataformas GDDP que recoge las pautas técnicas y operativas para el mantenimiento de la infraestructura de catálogo, publicación y federación, incluyendo las actuaciones necesarias para la continuidad del servicio, la gestión de incidencias y la preservación del funcionamiento del entorno implantado.",
-                                "enlace":  "Enlace pendiente"
+                                "enlace":  "DGDATO.MN-Guía Mantenimiento Infraestructura",
+                                "enlace_href":  "https://colaboraage.sharepoint.com/:b:/r/sites/DIGITAL-GestindelaDemandadelDatoPblico/Documentos compartidos/Proyecto/10 Casos de Uso/10.02 Proyectos/MIR-DGT/2.Ejecuci%C3%B3n/B7. Transferencia del conocimiento/A 7.1 Plan Transferencia/DGDATO.MN-Gu%C3%ADa Mantenimiento Infraestructura.pdf?csf=1\u0026web=1\u0026e=lf1i02"
                             },
                             {
                                 "documentos_finales_del_proyecto_missm_ss":  "Informe Final Mejora Procesos Gobierno, Gestión y Calidad Datos",
