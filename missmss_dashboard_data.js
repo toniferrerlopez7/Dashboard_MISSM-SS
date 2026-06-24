@@ -1,5 +1,5 @@
 window.MISSMSS_DASHBOARD_DATA = {
-    "generated_at":  "2026-06-24 08:27:43",
+    "generated_at":  "2026-06-24 08:31:45",
     "source_file":  "MISSM-SS.CM-Fuente Dashboard.xlsx",
     "title":  "MISSM-SS Â· Cuadro de mando de federaciÃ³n y gobierno del dato",
     "subtitle":  "Seguimiento ejecutivo del ciclo IKC â†’ M4M â†’ Conversor â†’ Validador â†’ CKAN MISSM-SS â†’ datos.gob.es, incluyendo comisiones, satisfacciÃ³n y devoluciÃ³n del servicio.",
@@ -2364,9 +2364,9 @@ window.MISSMSS_DASHBOARD_DATA = {
                              "observaciones":  ""
                          },
                          {
-                             "id_entregable":  "ENT-055",
+                             "id_entregable":  "ENT-056",
                              "id_actividad":  "MISSMSS-ACT-049",
-                             "codigo_bloque":  "B7",
+                             "codigo_bloque":  "B07",
                              "bloque":  "B7. Transferencia de conocimiento",
                              "actividad_sharepoint":  "A 7.1 Plan Transferencia",
                              "actividad_normalizada":  "7.1 Plan de transferencia del servicio prestado",
@@ -2382,7 +2382,7 @@ window.MISSMSS_DASHBOARD_DATA = {
                              "observaciones":  ""
                          },
                          {
-                             "id_entregable":  "ENT-055",
+                             "id_entregable":  "ENT-057",
                              "id_actividad":  "MISSMSS-ACT-049",
                              "codigo_bloque":  "B08",
                              "bloque":  "B8. Apoyo Legal",
@@ -2398,7 +2398,7 @@ window.MISSMSS_DASHBOARD_DATA = {
                              "observaciones":  "Depende del Organismo. Fuera de nuestro alcance."
                          },
                          {
-                             "id_entregable":  "ENT-055",
+                             "id_entregable":  "ENT-058",
                              "id_actividad":  "MISSMSS-ACT-049",
                              "codigo_bloque":  "B08",
                              "bloque":  "B8. Apoyo Legal",
@@ -2430,7 +2430,7 @@ window.MISSMSS_DASHBOARD_DATA = {
                              "observaciones":  "No se realizaron peticiones de análisis jurídico de dataset.\nNo hay entregable"
                          },
                          {
-                             "id_entregable":  "ENT-055",
+                             "id_entregable":  "ENT-059",
                              "id_actividad":  "MISSMSS-ACT-049",
                              "codigo_bloque":  "B09",
                              "bloque":  "B9. Seguimiento y Control",
@@ -2448,7 +2448,7 @@ window.MISSMSS_DASHBOARD_DATA = {
                              "observaciones":  ""
                          },
                          {
-                             "id_entregable":  "ENT-055",
+                             "id_entregable":  "ENT-060",
                              "id_actividad":  "MISSMSS-ACT-049",
                              "codigo_bloque":  "B09",
                              "bloque":  "B9. Seguimiento y Control",
@@ -2466,7 +2466,7 @@ window.MISSMSS_DASHBOARD_DATA = {
                              "observaciones":  ""
                          },
                          {
-                             "id_entregable":  "ENT-055",
+                             "id_entregable":  "ENT-061",
                              "id_actividad":  "MISSMSS-ACT-049",
                              "codigo_bloque":  "B10",
                              "bloque":  "B10. Demanda Sectorial",
